@@ -27,3 +27,7 @@ ProM PLugin - Java
 4. Run the project as Prom with UITopia (running as UITopia needs a class loder in recent java verion)
 5. add the Below VM argumnet to the build. (-Djava.system.class.loader=org.processmining.framework.util.ProMClassLoader)
 6. Run the file NgramPlugin.java to launch ProM application.
+
+
+post your Quires to
+manojkumar@uni-kobelnz.de
