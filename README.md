@@ -21,7 +21,7 @@ BPMN model of the cases with least events count
 
 ProM PLugin - Java 
 
-1. Import the project to java Ide via SVN checkout (check : https://svn.win.tue.nl/trac/prom/wiki/ManuallyCheckingOutProM)
+1. Import the project to java IDE via SVN checkout (check : https://svn.win.tue.nl/trac/prom/wiki/ManuallyCheckingOutProM)
 2. for reading XES file OpenXES-20181205.jar is needed , add the jar file to the project 
 3. Add files NgramPlugin.java and LogEventProcessor.java under the pacakge  org.processmining.plugins
 4. Run the project as Prom with UITopia (running as UITopia needs a class loder in recent java verion)
